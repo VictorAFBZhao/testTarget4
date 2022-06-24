@@ -1,0 +1,16 @@
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.exe
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.deps.json
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.runtimeconfig.json
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.dll
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\ref\testTarget4.dll
+C:\Users\Victor\source\repos\testTarget4\testTarget4\bin\Debug\net5.0\testTarget4.pdb
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.AssemblyInfo.cs
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.dll
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\ref\testTarget4.dll
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.pdb
+C:\Users\Victor\source\repos\testTarget4\testTarget4\obj\Debug\net5.0\testTarget4.genruntimeconfig.cache
